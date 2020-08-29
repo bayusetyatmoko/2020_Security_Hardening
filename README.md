@@ -5,7 +5,7 @@ My Collection of Writings About Security Hardening : <br>
 https://github.com/bayusetyatmoko/2020_Security_Hardening/blob/master/Hardening_Linux_Ubuntu.md <br>
 <br>
 '02. Hardening FlatFile CMS <br>
-https://github.com/bayusetyatmoko/2020_Security_Hardening/blob/master/Hardening_Linux_Ubuntu.md <br>
+https://github.com/bayusetyatmoko/2020_Security_Hardening/blob/master/Hardening_FlatFile_CMS.md <br>
 <br>
 Surabaya, 08/08/2020, <br>
 Hope it can be useful, <br>
