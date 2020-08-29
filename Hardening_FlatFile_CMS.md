@@ -177,7 +177,7 @@ E. <br>
 cd ~/ <br>
 curl -LJO "https://github.com/GetSimpleCMS/GetSimpleCMS/archive/v3.3.16.zip" <br>
 unzip GetSimpleCMS-3.3.16.zip <br>
-mv GetSimpleCMS-3.3.16/* /var/www/webcms2/ <br>
+mv ~/GetSimpleCMS-3.3.16/* /var/www/webcms2/ <br>
 rm -rf ~/GetSimpleCMS-3.3.16/ <br>
 <br>
 '02. <br>
