@@ -182,8 +182,10 @@ rm -rf ~/GetSimpleCMS-3.3.16/ <br>
 <br>
 '02. <br>
 #--- Setting Ownership & Permission - GetSimple CMS, <br>
-chmod -R 777 /var/www/webcms2/backups/ <br>
-chmod -R 777 /var/www/webcms2/data/ <br>
+chown -R bayu.www-data /var/www/webcms2/* <br>
+find /var/www/webcms2/ -type f -exec chmod 664 {} \; <br>
+find /var/www/webcms2/ -type d -exec chmod 775 {} \; <br>
+find /var/www/webcms2/ -type d -exec chmod +s {} \; <br>
 <br>
 '03. <br>
 #--- Browsing http://webcms2.idjvnix.com/admin/ (to install GetSimple CMS) <br>
