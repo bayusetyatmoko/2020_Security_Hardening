@@ -7,6 +7,9 @@ https://github.com/bayusetyatmoko/2020_Security_Hardening/blob/master/Hardening_
 '02. Hardening FlatFile CMS <br>
 https://github.com/bayusetyatmoko/2020_Security_Hardening/blob/master/Hardening_FlatFile_CMS.md <br>
 <br>
+'03. Hardening CodeIgniter Framework & CMS <br>
+https://github.com/bayusetyatmoko/2020_Security_Hardening/blob/master/Hardening_CodeIgniter_Framework_CMS.md <br>
+<br>
 Surabaya, 08/08/2020, <br>
 Hope it can be useful, <br>
 Best Regards, <br>
